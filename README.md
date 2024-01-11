@@ -1,46 +1,59 @@
-# Getting Started with Create React App
+# Alura Studies
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hello! Alura Studies was developed during Alura's Class *React: writing with TypeScript*. The goal of the page is to control and time study topics. You can include new topics and setting the time you need to study for each of them. You can also select each topic and use the timer to mark the time. At the end of the time the task is marked as done.
 
-## Available Scripts
+This React with TypeScript project was created from scratch using Create React App. React's concepts and good practices were addressed and TypeScript was the main focus in the class.
 
-In the project directory, you can run:
+To see the final result, click [here](https://learning-react-typescript-alura-studies.vercel.app/).
 
-### `npm start`
+## Used tools:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* React
+* TypeScript
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+*(Alura is a Brazilian technology school and for acessibility reasons this code is in Portuguese)*
 
-### `npm test`
+## Initializing the project on your computer
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Clone the repository using the command line:
+    - git clone *link of the repository*
+    - cd *file of the repository*
+ 
+- Go to the projects main file:
+    - cd *name of the file*
+ 
+- Run the code:
+    - npm install (to install all project's dependencies)
+    - npm start (to open the project on your browser)
+ 
+* In case the project does not opend automatically type http://localhost:3000 on your browser
 
-### `npm run build`
+#
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Alura Studies
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Olá! O Alura Studies foi desenvolvido durante o curso *React: escrevendo com TypeScript*, da Alura. O objetivo dessa página é controlar e cronometrar o tempo de tópicos de estudo. Nele você consegue incluir novos tópicos enquanto seta o tempo que pretende estudar cada um deles. Você também consegue selecionar cada um dos tópicos e utilizar o cronômetro para marcar o tempo de estudo. Ao final do tempo, a tarefa é marcada como concluída.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Esse projeto React com TypeScript foi criado do zero utilizando Create React App. Os conceitos de React foram todos repassados, assim como boas práticas, e a utilização do TypeScript foi o foco do curso. 
 
-### `npm run eject`
+Para acessar o resultado final da página, clique [aqui](https://learning-react-typescript-alura-studies.vercel.app/).
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Ferramentas utilizadas:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* React
+* TypeScript
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Iniciando as versões do projeto na sua máquina
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Clone o repositório através do terminal:
+    - git clone *link do repositório*
+    - cd *pasta do repositório*
+ 
+- Entre na pasta da versão que você deseja iniciar:
+    - cd *nome da pasta*
+ 
+- Rode o código na sua máquina:
+    - npm install (para instalar as dependências do projeto)
+    - npm start (para abrir o projeto no seu navegador)
+ 
+* Caso o projeto não abra automaticamente, digite http://localhost:3000 no seu navegador
