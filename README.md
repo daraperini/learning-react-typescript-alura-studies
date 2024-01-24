@@ -49,7 +49,7 @@ Para acessar o resultado final da página, clique [aqui](https://learning-react-
     - git clone *link do repositório*
     - cd *pasta do repositório*
  
-- Entre na pasta da versão que você deseja iniciar:
+- Entre na pasta do projeto:
     - cd *nome da pasta*
  
 - Rode o código na sua máquina:
